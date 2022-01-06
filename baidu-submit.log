@@ -2716,3 +2716,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  3446    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100  3475  100    29  100  3446     19   2311  0:00:01  0:00:01 --:--:--  2330
 {"remain":2861,"success":139}Done!
+
+===========================================
+Thu Jan 6 15:45:15 UTC 2022
+===========================================
+SITE_URL: https://pzwd.net
+SITEMAP_URL: https://pzwd.net/sitemap.xml
+Get sitemap https://pzwd.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3475  100    29  100  3446     15   1872  0:00:01  0:00:01 --:--:--  1887100  3475  100    29  100  3446     15   1871  0:00:01  0:00:01 --:--:--  1886
+{"remain":2722,"success":139}Done!
