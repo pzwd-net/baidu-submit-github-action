@@ -8860,3 +8860,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0  4272    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0100  4272    0     0  100  4272      0    537  0:00:07  0:00:07 --:--:--   765100  4272    0     0  100  4272      0    477  0:00:08  0:00:08 --:--:--   765100  4659  100   387  100  4272     39    432  0:00:09  0:00:09 --:--:--   846100  4659  100   387  100  4272     39    432  0:00:09  0:00:09 --:--:--  1142
 {"remain":2671,"success":157,"not_valid":["https://pzwd.://pzwd.net/u/twitter","https://pztps://pzwd.net/u/wechat","https://pzwd.ttps://pzwd.net/u/artmaster","https://pztps://pzwd.net/d/7","https30","https://pzwps://pzwd.net/d/42","https://pttps://pzwd.net/d/61","https://https://pzwd.net/t/android","https://https://pzwd.net/t/angular","https://https://pzwd.net/t/redis","https://pzw"]}Done!
+
+===========================================
+Wed Aug 31 06:07:10 UTC 2022
+===========================================
+SITE_URL: https://pzwd.net
+SITEMAP_URL: https://pzwd.net/sitemap.xml
+Get sitemap https://pzwd.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100  4272    0     0  100  4272      0   1944  0:00:02  0:00:02 --:--:--  1943100  4301  100    29  100  4272     12   1808  0:00:02  0:00:02 --:--:--  1820
+{"remain":2828,"success":172}Done!
