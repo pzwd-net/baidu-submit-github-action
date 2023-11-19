@@ -20426,3 +20426,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4424  100    36  100  4388     17   2147  0:00:02  0:00:02 --:--:--  2166100  4424  100    36  100  4388     17   2147  0:00:02  0:00:02 --:--:--  2166
 {"error":400,"message":"over quota"}Done!
+
+===========================================
+Sun Nov 19 04:36:57 UTC 2023
+===========================================
+SITE_URL: https://pzwd.net
+SITEMAP_URL: https://pzwd.net/sitemap.xml
+Get sitemap https://pzwd.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4424  100    36  100  4388     30   3752  0:00:01  0:00:01 --:--:--  3784
+{"error":400,"message":"over quota"}Done!
