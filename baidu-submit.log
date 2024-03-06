@@ -23235,3 +23235,11 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4424  100    36  100  4388     22   2700  0:00:01  0:00:01 --:--:--  2722100  4424  100    36  100  4388     22   2699  0:00:01  0:00:01 --:--:--  2720
 {"error":400,"message":"over quota"}Done!
+
+===========================================
+Wed Mar 6 04:36:58 UTC 2024
+===========================================
+SITE_URL: https://pzwd.net
+SITEMAP_URL: https://pzwd.net/sitemap.xml
+Get sitemap https://pzwd.net/sitemap.xml
+Done!
