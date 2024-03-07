@@ -23259,3 +23259,16 @@ SITE_URL: https://pzwd.net
 SITEMAP_URL: https://pzwd.net/sitemap.xml
 Get sitemap https://pzwd.net/sitemap.xml
 Done!
+
+===========================================
+Thu Mar 7 15:37:08 UTC 2024
+===========================================
+SITE_URL: https://pzwd.net
+SITEMAP_URL: https://pzwd.net/sitemap.xml
+Get sitemap https://pzwd.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4424  100    36  100  4388     29   3554  0:00:01  0:00:01 --:--:--  3585100  4424  100    36  100  4388     29   3553  0:00:01  0:00:01 --:--:--  3585
+{"error":400,"message":"over quota"}Done!
